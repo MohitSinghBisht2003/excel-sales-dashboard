@@ -25,5 +25,7 @@ This project is a business-style **Sales Performance Dashboard** built using **M
 - Designing for clarity and professional presentation
 
 ---
+Screenshots/Preview
+![Overview](https://github.com/user-attachments/assets/eadeb96b-bbe4-479a-bf47-b79ddf098442)
 
 
